@@ -6,3 +6,16 @@
 # <h6>My favourite novel is the an understated dorminance</h6>
 
 ![My Image of Choice](https://www.nps.gov/lacl/learn/nature/images/Image-w-cred-cap_-1200w-_-Brown-Bear-page_-brown-bear-in-fog_2.jpg?maxwidth=1300&maxheight=1300&autorotate=false&format=webp)
+
+```
+$git init
+repository initialized successfully
+```
+```python
+print("Hello World")
+```
+```Rust
+// printing to the console in Rust
+println("Welcome to Rust Programming")
+```
+
