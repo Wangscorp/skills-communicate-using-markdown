@@ -19,3 +19,10 @@ print("Hello World")
 println("Welcome to Rust Programming")
 ```
 
+- [x] Scripting Languages
+- [ ] Business Proccess Re-engineering exam
+- [ ] Data Mining & Ware Housing Exam
+- [ ] Finalist Dinner
+- [ ] Go Home
+
+
